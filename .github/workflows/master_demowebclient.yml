@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'demowebclient'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_f7b49bfd89dd48c3913ff46e35b72765 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_eb9e63c2ab054460ad1931d2c7269b1d }}
         package: .
